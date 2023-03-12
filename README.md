@@ -26,8 +26,8 @@ Example:
 # Usage instructions
 
 ### 1. Creating a virtual environment:
-1.  `git clone` 
-2.  `cd repo`
+1.  `git clone https://github.com/RichardDelwin/north-dakota-businesses.git` 
+2.  `cd north-dakota-businesses`
 3.  `pip install virtualenv`  (if you don't already have virtualenv installed)
 4.  `virtualenv venv`  to create your new environment.
 5.  `venv/Scripts/activate`  to enter the virtual environment
