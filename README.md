@@ -36,7 +36,7 @@ Example:
 ### 2. Obtaining businesses data and plotting the graph
  1. `python main.py`  to obtain data, generate the data file (businesses_data.json), and plot the graph (businesses.png) (The entire process takes around 3.5 minutes).
 
-Note:| `python plot_graph` can also be executed if plot_graph is to be executed independently.
+Note:| `python plot_graph.py` can also be executed if plot_graph is to be executed independently.
 
 
 <br>
