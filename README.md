@@ -17,7 +17,7 @@ My submission consists of 5 files, namely:
 
 Example:
 
-![Alt text](readme_images\Businesses_that_don't_start_with_X.png?raw=true "Example")
+![Alt text](https://github.com/RichardDelwin/north-dakota-businesses/blob/main/readme_images/Businesses_that_don't_start_with_X.png "Example")
 
 
 
